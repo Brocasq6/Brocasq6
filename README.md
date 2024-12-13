@@ -4,6 +4,7 @@
 - 📫 How to reach me:  Email : bruno.ricardo.bonifacio.freitas@gmail.com
 - ⚡ Fun fact: I was national champion in Acrobatics Gymnastics / I can play Piano and Guitar
 - ✨ Programing Languages I know : Haskell
+- ✨ I am curruntly participating and helipng in the Aurora Project In Uminho 
 
 <!---
 Brocasq6/Brocasq6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
