@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Computer Science in UMinho
 - 📫 How to reach me:  Email : bruno.ricardo.bonifacio.freitas@gmail.com
 - ⚡ Fun fact: I was national champion in Acrobatics Gymnastics / I can play Piano and Guitar
-- ✨ Programing Languages I know : Haskell
-- ✨ I am curruntly a board member and the software department maneger for the MAST -> Aurora Mission
+- ✨ Programing Languages I know : Haskell / C / 
+- ✨ I was a board Member / Software Department Maneger and Director for the MAST Aurora Mission Project.
 
 <!---
 Brocasq6/Brocasq6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
