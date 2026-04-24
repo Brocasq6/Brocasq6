@@ -1,4 +1,4 @@
-<h1 align="center"> 👩🏻‍💻 Bruno (Bino) Freitas </h1>
+<h1 align="center"> 👨🏻‍💻 Bruno (Bino) Freitas </h1>
 <p align="center">
   Guimarães, Portugal &nbsp;·&nbsp; University of Minho &nbsp;·&nbsp; Computer Science &nbsp;·&nbsp; 2nd year
 </p>
@@ -19,7 +19,7 @@
   <img
     alt="GitHub Stats"
     height="200"
-    src="https://github-readme-stats.vercel.app/api?username=Brocasq6&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src=<img src="https://github-readme-stats-brocasq6.vercel.app/api?username=Brocasq6&show_icons=true&theme=tokyonight&locale=pt-br" />
   />
   <img
     alt="Tecnologias mais usadas"
