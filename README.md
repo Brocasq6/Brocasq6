@@ -19,11 +19,11 @@
   <img
     alt="GitHub Stats"
     height="200"
-    src="https://brocasq6.vercel.app/api?username=Brocasq6&show_icons=true&theme=tokyonight&locale=pt-br&count_private=true&include_all_commits=true](https://github-readme-stats-mvg7lqehl-brocasq6s-projects.vercel.app"
+    src="https://github-readme-stats.vercel.app/api?username=Brocasq6"
   />
   <img
     alt="Tecnologias mais usadas"
     height="200"
-    src="https://brocasq6.vercel.app/api/top-langs/?username=Brocasq6&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    src="https://github-readme-stats.vercel.app/api?username=Brocasq6"
   />
 </div>
