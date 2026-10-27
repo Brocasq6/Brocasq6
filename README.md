@@ -19,7 +19,7 @@
   <img
     alt="GitHub Stats"
     height="200"
-    src="https://github-readme-stats.vercel.app/api?username=Brocasq6&show_icons=true&theme=tokyonight&locale=pt-br&count_private=true&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=Brocasq6&show_icons=true&theme=tokyonight&locale=pt-br&count_private=true"
   />
   <img
     alt="Tecnologias mais usadas"
