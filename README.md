@@ -18,7 +18,7 @@
 <div align="center">
   <img
     alt="GitHub Stats"
-    height="100"
+    height="150"
     src="https://github-readme-stats.vercel.app/api?username=Brocasq6&show_icons=true&theme=tokyonight&locale=pt-br&count_private=true"
   />
   <img
